@@ -11,7 +11,7 @@ npm i
 ```
 node app.js -a YOUR_ADDRESS_FOR_WEATHER
 ```
-or live blank for ip 2 weather info
+or leave blank for ip 2 weather info
 ```
 node app.js
 ```
